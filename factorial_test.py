@@ -16,4 +16,4 @@ class TestSampleMethods(unittest.TestCase):
         self.assertEqual(factorial(1), 1)
 
 if __name__ == '__main__':
-    unittest.main()
+    unittest.main() 
